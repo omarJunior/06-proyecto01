@@ -35,10 +35,6 @@ export const Crear = ({setListadoState}) => {
 
         //guardar en el localstorage
         guardarEnStorage("pelis", peli)
-
-
-        
-
     }
 
   return (
