@@ -219,3 +219,9 @@ input[type="button"]{
       width: 80%;
   }
 }
+
+
+.no-encontrado{
+  font-size: 12px;
+  color: #9b0202;
+}
